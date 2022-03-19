@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Rompiendo contraseña - iniciando 1.1.2
+title: Rompiendo contraseña - iniciando 1.2.1
 excerpt: "Descifraremos una contraseña simple partiendo de un usuario con privilegios usando un diccionario de contraseñas para realizar un ataque de fuerza bruta."
 date: 2022-03-14
 classes: wide

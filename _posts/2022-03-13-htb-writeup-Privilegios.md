@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Escalando Privilegios - Iniciando 1.1.1
+title: Escalando Privilegios - SUID - FIND & AGETTY 1.1.1
 excerpt: "Escalar privilegios - consiste en abrirse camino a través de vulnerabilidades del sistema para tener acceso a *comandos* que nos permitan manipular la máquina sin restricción alguna. Hablamos de *escalar* porque se inicia desde un nivel inferior de comandos muy limitados. En esta oportunidad presentaremos un caso en el que se aprovecha la vulnerabilidad *bit SUID* el cual es un permiso que cuando se le otorga a un *fichero* permite que quien lo ejecute pueda tener los mismos permisos del creador."
 date: 2022-03-13
 classes: wide
